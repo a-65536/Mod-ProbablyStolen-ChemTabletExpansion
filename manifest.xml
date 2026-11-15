@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>chem_tablet_expansion</ID>
+  <Name>化学制剂：压片扩展 / Chem Finisher Tablets</Name>
+  <Author>Astriclypeus, DeepSeek V4.1 Flash</Author>
+  <ModVersion>1.0.0</ModVersion>
+  <Description><![CDATA[
+向化学制剂成型机增加了两个配方：
+
+- 水培营养片：矿物质 15 mL
+- 净水片：氯 15 mL
+]]></Description>
+  <GameVersions>
+    <Version>0.46D</Version>
+  </GameVersions>
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>ChemTabletExpansion.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Manifest>
